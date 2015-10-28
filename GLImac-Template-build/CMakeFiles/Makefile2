@@ -74,7 +74,7 @@ glimac/preinstall:
 glimac/CMakeFiles/glimac.dir/all:
 	$(MAKE) -f glimac/CMakeFiles/glimac.dir/build.make glimac/CMakeFiles/glimac.dir/depend
 	$(MAKE) -f glimac/CMakeFiles/glimac.dir/build.make glimac/CMakeFiles/glimac.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles  11 12 13 14 15 16 17 18
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles  25 26 27 28 29 30 31 32
 	@echo "Built target glimac"
 .PHONY : glimac/CMakeFiles/glimac.dir/all
 
@@ -136,7 +136,7 @@ TP_1/preinstall:
 TP_1/CMakeFiles/TP_1_SDLtemplate.dir/all: glimac/CMakeFiles/glimac.dir/all
 	$(MAKE) -f TP_1/CMakeFiles/TP_1_SDLtemplate.dir/build.make TP_1/CMakeFiles/TP_1_SDLtemplate.dir/depend
 	$(MAKE) -f TP_1/CMakeFiles/TP_1_SDLtemplate.dir/build.make TP_1/CMakeFiles/TP_1_SDLtemplate.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles  1
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles  3
 	@echo "Built target TP_1_SDLtemplate"
 .PHONY : TP_1/CMakeFiles/TP_1_SDLtemplate.dir/all
 
@@ -171,7 +171,7 @@ clean: TP_1/CMakeFiles/TP_1_SDLtemplate.dir/clean
 TP_1/CMakeFiles/TP_1_exo1_triangle_blanc.dir/all: glimac/CMakeFiles/glimac.dir/all
 	$(MAKE) -f TP_1/CMakeFiles/TP_1_exo1_triangle_blanc.dir/build.make TP_1/CMakeFiles/TP_1_exo1_triangle_blanc.dir/depend
 	$(MAKE) -f TP_1/CMakeFiles/TP_1_exo1_triangle_blanc.dir/build.make TP_1/CMakeFiles/TP_1_exo1_triangle_blanc.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles  2
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles  4
 	@echo "Built target TP_1_exo1_triangle_blanc"
 .PHONY : TP_1/CMakeFiles/TP_1_exo1_triangle_blanc.dir/all
 
@@ -206,7 +206,7 @@ clean: TP_1/CMakeFiles/TP_1_exo1_triangle_blanc.dir/clean
 TP_1/CMakeFiles/TP_1_exo2_triangle_color.dir/all: glimac/CMakeFiles/glimac.dir/all
 	$(MAKE) -f TP_1/CMakeFiles/TP_1_exo2_triangle_color.dir/build.make TP_1/CMakeFiles/TP_1_exo2_triangle_color.dir/depend
 	$(MAKE) -f TP_1/CMakeFiles/TP_1_exo2_triangle_color.dir/build.make TP_1/CMakeFiles/TP_1_exo2_triangle_color.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles  3
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles  5
 	@echo "Built target TP_1_exo2_triangle_color"
 .PHONY : TP_1/CMakeFiles/TP_1_exo2_triangle_color.dir/all
 
@@ -241,7 +241,7 @@ clean: TP_1/CMakeFiles/TP_1_exo2_triangle_color.dir/clean
 TP_1/CMakeFiles/TP_1_exo3_structure_vertex.dir/all: glimac/CMakeFiles/glimac.dir/all
 	$(MAKE) -f TP_1/CMakeFiles/TP_1_exo3_structure_vertex.dir/build.make TP_1/CMakeFiles/TP_1_exo3_structure_vertex.dir/depend
 	$(MAKE) -f TP_1/CMakeFiles/TP_1_exo3_structure_vertex.dir/build.make TP_1/CMakeFiles/TP_1_exo3_structure_vertex.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles  4
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles  6
 	@echo "Built target TP_1_exo3_structure_vertex"
 .PHONY : TP_1/CMakeFiles/TP_1_exo3_structure_vertex.dir/all
 
@@ -276,7 +276,7 @@ clean: TP_1/CMakeFiles/TP_1_exo3_structure_vertex.dir/clean
 TP_1/CMakeFiles/TP_1_exo4_structure_vertex.dir/all: glimac/CMakeFiles/glimac.dir/all
 	$(MAKE) -f TP_1/CMakeFiles/TP_1_exo4_structure_vertex.dir/build.make TP_1/CMakeFiles/TP_1_exo4_structure_vertex.dir/depend
 	$(MAKE) -f TP_1/CMakeFiles/TP_1_exo4_structure_vertex.dir/build.make TP_1/CMakeFiles/TP_1_exo4_structure_vertex.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles  5
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles  7
 	@echo "Built target TP_1_exo4_structure_vertex"
 .PHONY : TP_1/CMakeFiles/TP_1_exo4_structure_vertex.dir/all
 
@@ -311,7 +311,7 @@ clean: TP_1/CMakeFiles/TP_1_exo4_structure_vertex.dir/clean
 TP_1/CMakeFiles/TP_1_exo5_disque.dir/all: glimac/CMakeFiles/glimac.dir/all
 	$(MAKE) -f TP_1/CMakeFiles/TP_1_exo5_disque.dir/build.make TP_1/CMakeFiles/TP_1_exo5_disque.dir/depend
 	$(MAKE) -f TP_1/CMakeFiles/TP_1_exo5_disque.dir/build.make TP_1/CMakeFiles/TP_1_exo5_disque.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles  6
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles  8
 	@echo "Built target TP_1_exo5_disque"
 .PHONY : TP_1/CMakeFiles/TP_1_exo5_disque.dir/all
 
@@ -346,7 +346,7 @@ clean: TP_1/CMakeFiles/TP_1_exo5_disque.dir/clean
 TP_1/CMakeFiles/TP_1_maison.dir/all: glimac/CMakeFiles/glimac.dir/all
 	$(MAKE) -f TP_1/CMakeFiles/TP_1_maison.dir/build.make TP_1/CMakeFiles/TP_1_maison.dir/depend
 	$(MAKE) -f TP_1/CMakeFiles/TP_1_maison.dir/build.make TP_1/CMakeFiles/TP_1_maison.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles  7
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles  9
 	@echo "Built target TP_1_maison"
 .PHONY : TP_1/CMakeFiles/TP_1_maison.dir/all
 
@@ -375,6 +375,241 @@ clean: TP_1/CMakeFiles/TP_1_maison.dir/clean
 .PHONY : clean
 
 #=============================================================================
+# Directory level rules for directory TP_2_suite
+
+# Convenience name for "all" pass in the directory.
+TP_2_suite/all: TP_2_suite/CMakeFiles/TP_2_suite_SDLtemplate.dir/all
+TP_2_suite/all: TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_1.dir/all
+TP_2_suite/all: TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_2.dir/all
+TP_2_suite/all: TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_3.dir/all
+TP_2_suite/all: TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_4.dir/all
+TP_2_suite/all: TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_5.dir/all
+.PHONY : TP_2_suite/all
+
+# Convenience name for "clean" pass in the directory.
+TP_2_suite/clean: TP_2_suite/CMakeFiles/TP_2_suite_SDLtemplate.dir/clean
+TP_2_suite/clean: TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_1.dir/clean
+TP_2_suite/clean: TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_2.dir/clean
+TP_2_suite/clean: TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_3.dir/clean
+TP_2_suite/clean: TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_4.dir/clean
+TP_2_suite/clean: TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_5.dir/clean
+.PHONY : TP_2_suite/clean
+
+# Convenience name for "preinstall" pass in the directory.
+TP_2_suite/preinstall:
+.PHONY : TP_2_suite/preinstall
+
+#=============================================================================
+# Target rules for target TP_2_suite/CMakeFiles/TP_2_suite_SDLtemplate.dir
+
+# All Build rule for target.
+TP_2_suite/CMakeFiles/TP_2_suite_SDLtemplate.dir/all: glimac/CMakeFiles/glimac.dir/all
+	$(MAKE) -f TP_2_suite/CMakeFiles/TP_2_suite_SDLtemplate.dir/build.make TP_2_suite/CMakeFiles/TP_2_suite_SDLtemplate.dir/depend
+	$(MAKE) -f TP_2_suite/CMakeFiles/TP_2_suite_SDLtemplate.dir/build.make TP_2_suite/CMakeFiles/TP_2_suite_SDLtemplate.dir/build
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles  15
+	@echo "Built target TP_2_suite_SDLtemplate"
+.PHONY : TP_2_suite/CMakeFiles/TP_2_suite_SDLtemplate.dir/all
+
+# Include target in all.
+all: TP_2_suite/CMakeFiles/TP_2_suite_SDLtemplate.dir/all
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+TP_2_suite/CMakeFiles/TP_2_suite_SDLtemplate.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles 9
+	$(MAKE) -f CMakeFiles/Makefile2 TP_2_suite/CMakeFiles/TP_2_suite_SDLtemplate.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles 0
+.PHONY : TP_2_suite/CMakeFiles/TP_2_suite_SDLtemplate.dir/rule
+
+# Convenience name for target.
+TP_2_suite_SDLtemplate: TP_2_suite/CMakeFiles/TP_2_suite_SDLtemplate.dir/rule
+.PHONY : TP_2_suite_SDLtemplate
+
+# clean rule for target.
+TP_2_suite/CMakeFiles/TP_2_suite_SDLtemplate.dir/clean:
+	$(MAKE) -f TP_2_suite/CMakeFiles/TP_2_suite_SDLtemplate.dir/build.make TP_2_suite/CMakeFiles/TP_2_suite_SDLtemplate.dir/clean
+.PHONY : TP_2_suite/CMakeFiles/TP_2_suite_SDLtemplate.dir/clean
+
+# clean rule for target.
+clean: TP_2_suite/CMakeFiles/TP_2_suite_SDLtemplate.dir/clean
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_1.dir
+
+# All Build rule for target.
+TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_1.dir/all: glimac/CMakeFiles/glimac.dir/all
+	$(MAKE) -f TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_1.dir/build.make TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_1.dir/depend
+	$(MAKE) -f TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_1.dir/build.make TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_1.dir/build
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles  16
+	@echo "Built target TP_2_suite_variable_uniforme_1"
+.PHONY : TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_1.dir/all
+
+# Include target in all.
+all: TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_1.dir/all
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_1.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles 9
+	$(MAKE) -f CMakeFiles/Makefile2 TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_1.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles 0
+.PHONY : TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_1.dir/rule
+
+# Convenience name for target.
+TP_2_suite_variable_uniforme_1: TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_1.dir/rule
+.PHONY : TP_2_suite_variable_uniforme_1
+
+# clean rule for target.
+TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_1.dir/clean:
+	$(MAKE) -f TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_1.dir/build.make TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_1.dir/clean
+.PHONY : TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_1.dir/clean
+
+# clean rule for target.
+clean: TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_1.dir/clean
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_2.dir
+
+# All Build rule for target.
+TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_2.dir/all: glimac/CMakeFiles/glimac.dir/all
+	$(MAKE) -f TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_2.dir/build.make TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_2.dir/depend
+	$(MAKE) -f TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_2.dir/build.make TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_2.dir/build
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles  17
+	@echo "Built target TP_2_suite_variable_uniforme_2"
+.PHONY : TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_2.dir/all
+
+# Include target in all.
+all: TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_2.dir/all
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_2.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles 9
+	$(MAKE) -f CMakeFiles/Makefile2 TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_2.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles 0
+.PHONY : TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_2.dir/rule
+
+# Convenience name for target.
+TP_2_suite_variable_uniforme_2: TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_2.dir/rule
+.PHONY : TP_2_suite_variable_uniforme_2
+
+# clean rule for target.
+TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_2.dir/clean:
+	$(MAKE) -f TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_2.dir/build.make TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_2.dir/clean
+.PHONY : TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_2.dir/clean
+
+# clean rule for target.
+clean: TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_2.dir/clean
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_3.dir
+
+# All Build rule for target.
+TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_3.dir/all: glimac/CMakeFiles/glimac.dir/all
+	$(MAKE) -f TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_3.dir/build.make TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_3.dir/depend
+	$(MAKE) -f TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_3.dir/build.make TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_3.dir/build
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles  18
+	@echo "Built target TP_2_suite_variable_uniforme_3"
+.PHONY : TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_3.dir/all
+
+# Include target in all.
+all: TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_3.dir/all
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_3.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles 9
+	$(MAKE) -f CMakeFiles/Makefile2 TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_3.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles 0
+.PHONY : TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_3.dir/rule
+
+# Convenience name for target.
+TP_2_suite_variable_uniforme_3: TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_3.dir/rule
+.PHONY : TP_2_suite_variable_uniforme_3
+
+# clean rule for target.
+TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_3.dir/clean:
+	$(MAKE) -f TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_3.dir/build.make TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_3.dir/clean
+.PHONY : TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_3.dir/clean
+
+# clean rule for target.
+clean: TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_3.dir/clean
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_4.dir
+
+# All Build rule for target.
+TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_4.dir/all: glimac/CMakeFiles/glimac.dir/all
+	$(MAKE) -f TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_4.dir/build.make TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_4.dir/depend
+	$(MAKE) -f TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_4.dir/build.make TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_4.dir/build
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles  19
+	@echo "Built target TP_2_suite_variable_uniforme_4"
+.PHONY : TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_4.dir/all
+
+# Include target in all.
+all: TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_4.dir/all
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_4.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles 9
+	$(MAKE) -f CMakeFiles/Makefile2 TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_4.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles 0
+.PHONY : TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_4.dir/rule
+
+# Convenience name for target.
+TP_2_suite_variable_uniforme_4: TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_4.dir/rule
+.PHONY : TP_2_suite_variable_uniforme_4
+
+# clean rule for target.
+TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_4.dir/clean:
+	$(MAKE) -f TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_4.dir/build.make TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_4.dir/clean
+.PHONY : TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_4.dir/clean
+
+# clean rule for target.
+clean: TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_4.dir/clean
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_5.dir
+
+# All Build rule for target.
+TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_5.dir/all: glimac/CMakeFiles/glimac.dir/all
+	$(MAKE) -f TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_5.dir/build.make TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_5.dir/depend
+	$(MAKE) -f TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_5.dir/build.make TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_5.dir/build
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles  20
+	@echo "Built target TP_2_suite_variable_uniforme_5"
+.PHONY : TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_5.dir/all
+
+# Include target in all.
+all: TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_5.dir/all
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_5.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles 9
+	$(MAKE) -f CMakeFiles/Makefile2 TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_5.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles 0
+.PHONY : TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_5.dir/rule
+
+# Convenience name for target.
+TP_2_suite_variable_uniforme_5: TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_5.dir/rule
+.PHONY : TP_2_suite_variable_uniforme_5
+
+# clean rule for target.
+TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_5.dir/clean:
+	$(MAKE) -f TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_5.dir/build.make TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_5.dir/clean
+.PHONY : TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_5.dir/clean
+
+# clean rule for target.
+clean: TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_5.dir/clean
+.PHONY : clean
+
+#=============================================================================
 # Directory level rules for directory TP_template
 
 # Convenience name for "all" pass in the directory.
@@ -396,7 +631,7 @@ TP_template/preinstall:
 TP_template/CMakeFiles/TP_template_SDLtemplate.dir/all: glimac/CMakeFiles/glimac.dir/all
 	$(MAKE) -f TP_template/CMakeFiles/TP_template_SDLtemplate.dir/build.make TP_template/CMakeFiles/TP_template_SDLtemplate.dir/depend
 	$(MAKE) -f TP_template/CMakeFiles/TP_template_SDLtemplate.dir/build.make TP_template/CMakeFiles/TP_template_SDLtemplate.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles  8
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles  22
 	@echo "Built target TP_template_SDLtemplate"
 .PHONY : TP_template/CMakeFiles/TP_template_SDLtemplate.dir/all
 
@@ -425,6 +660,241 @@ clean: TP_template/CMakeFiles/TP_template_SDLtemplate.dir/clean
 .PHONY : clean
 
 #=============================================================================
+# Directory level rules for directory TP_2
+
+# Convenience name for "all" pass in the directory.
+TP_2/all: TP_2/CMakeFiles/TP_2_SDLtemplate.dir/all
+TP_2/all: TP_2/CMakeFiles/TP_2_ex1_triangle_color.dir/all
+TP_2/all: TP_2/CMakeFiles/TP_2_ex2_triangle_color.dir/all
+TP_2/all: TP_2/CMakeFiles/TP_2_ex3_triangle.dir/all
+TP_2/all: TP_2/CMakeFiles/TP_2_mandelbrot.dir/all
+TP_2/all: TP_2/CMakeFiles/TP_2_triangle_color.dir/all
+.PHONY : TP_2/all
+
+# Convenience name for "clean" pass in the directory.
+TP_2/clean: TP_2/CMakeFiles/TP_2_SDLtemplate.dir/clean
+TP_2/clean: TP_2/CMakeFiles/TP_2_ex1_triangle_color.dir/clean
+TP_2/clean: TP_2/CMakeFiles/TP_2_ex2_triangle_color.dir/clean
+TP_2/clean: TP_2/CMakeFiles/TP_2_ex3_triangle.dir/clean
+TP_2/clean: TP_2/CMakeFiles/TP_2_mandelbrot.dir/clean
+TP_2/clean: TP_2/CMakeFiles/TP_2_triangle_color.dir/clean
+.PHONY : TP_2/clean
+
+# Convenience name for "preinstall" pass in the directory.
+TP_2/preinstall:
+.PHONY : TP_2/preinstall
+
+#=============================================================================
+# Target rules for target TP_2/CMakeFiles/TP_2_SDLtemplate.dir
+
+# All Build rule for target.
+TP_2/CMakeFiles/TP_2_SDLtemplate.dir/all: glimac/CMakeFiles/glimac.dir/all
+	$(MAKE) -f TP_2/CMakeFiles/TP_2_SDLtemplate.dir/build.make TP_2/CMakeFiles/TP_2_SDLtemplate.dir/depend
+	$(MAKE) -f TP_2/CMakeFiles/TP_2_SDLtemplate.dir/build.make TP_2/CMakeFiles/TP_2_SDLtemplate.dir/build
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles  10
+	@echo "Built target TP_2_SDLtemplate"
+.PHONY : TP_2/CMakeFiles/TP_2_SDLtemplate.dir/all
+
+# Include target in all.
+all: TP_2/CMakeFiles/TP_2_SDLtemplate.dir/all
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+TP_2/CMakeFiles/TP_2_SDLtemplate.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles 9
+	$(MAKE) -f CMakeFiles/Makefile2 TP_2/CMakeFiles/TP_2_SDLtemplate.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles 0
+.PHONY : TP_2/CMakeFiles/TP_2_SDLtemplate.dir/rule
+
+# Convenience name for target.
+TP_2_SDLtemplate: TP_2/CMakeFiles/TP_2_SDLtemplate.dir/rule
+.PHONY : TP_2_SDLtemplate
+
+# clean rule for target.
+TP_2/CMakeFiles/TP_2_SDLtemplate.dir/clean:
+	$(MAKE) -f TP_2/CMakeFiles/TP_2_SDLtemplate.dir/build.make TP_2/CMakeFiles/TP_2_SDLtemplate.dir/clean
+.PHONY : TP_2/CMakeFiles/TP_2_SDLtemplate.dir/clean
+
+# clean rule for target.
+clean: TP_2/CMakeFiles/TP_2_SDLtemplate.dir/clean
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target TP_2/CMakeFiles/TP_2_ex1_triangle_color.dir
+
+# All Build rule for target.
+TP_2/CMakeFiles/TP_2_ex1_triangle_color.dir/all: glimac/CMakeFiles/glimac.dir/all
+	$(MAKE) -f TP_2/CMakeFiles/TP_2_ex1_triangle_color.dir/build.make TP_2/CMakeFiles/TP_2_ex1_triangle_color.dir/depend
+	$(MAKE) -f TP_2/CMakeFiles/TP_2_ex1_triangle_color.dir/build.make TP_2/CMakeFiles/TP_2_ex1_triangle_color.dir/build
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles  11
+	@echo "Built target TP_2_ex1_triangle_color"
+.PHONY : TP_2/CMakeFiles/TP_2_ex1_triangle_color.dir/all
+
+# Include target in all.
+all: TP_2/CMakeFiles/TP_2_ex1_triangle_color.dir/all
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+TP_2/CMakeFiles/TP_2_ex1_triangle_color.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles 9
+	$(MAKE) -f CMakeFiles/Makefile2 TP_2/CMakeFiles/TP_2_ex1_triangle_color.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles 0
+.PHONY : TP_2/CMakeFiles/TP_2_ex1_triangle_color.dir/rule
+
+# Convenience name for target.
+TP_2_ex1_triangle_color: TP_2/CMakeFiles/TP_2_ex1_triangle_color.dir/rule
+.PHONY : TP_2_ex1_triangle_color
+
+# clean rule for target.
+TP_2/CMakeFiles/TP_2_ex1_triangle_color.dir/clean:
+	$(MAKE) -f TP_2/CMakeFiles/TP_2_ex1_triangle_color.dir/build.make TP_2/CMakeFiles/TP_2_ex1_triangle_color.dir/clean
+.PHONY : TP_2/CMakeFiles/TP_2_ex1_triangle_color.dir/clean
+
+# clean rule for target.
+clean: TP_2/CMakeFiles/TP_2_ex1_triangle_color.dir/clean
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target TP_2/CMakeFiles/TP_2_ex2_triangle_color.dir
+
+# All Build rule for target.
+TP_2/CMakeFiles/TP_2_ex2_triangle_color.dir/all: glimac/CMakeFiles/glimac.dir/all
+	$(MAKE) -f TP_2/CMakeFiles/TP_2_ex2_triangle_color.dir/build.make TP_2/CMakeFiles/TP_2_ex2_triangle_color.dir/depend
+	$(MAKE) -f TP_2/CMakeFiles/TP_2_ex2_triangle_color.dir/build.make TP_2/CMakeFiles/TP_2_ex2_triangle_color.dir/build
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles  12
+	@echo "Built target TP_2_ex2_triangle_color"
+.PHONY : TP_2/CMakeFiles/TP_2_ex2_triangle_color.dir/all
+
+# Include target in all.
+all: TP_2/CMakeFiles/TP_2_ex2_triangle_color.dir/all
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+TP_2/CMakeFiles/TP_2_ex2_triangle_color.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles 9
+	$(MAKE) -f CMakeFiles/Makefile2 TP_2/CMakeFiles/TP_2_ex2_triangle_color.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles 0
+.PHONY : TP_2/CMakeFiles/TP_2_ex2_triangle_color.dir/rule
+
+# Convenience name for target.
+TP_2_ex2_triangle_color: TP_2/CMakeFiles/TP_2_ex2_triangle_color.dir/rule
+.PHONY : TP_2_ex2_triangle_color
+
+# clean rule for target.
+TP_2/CMakeFiles/TP_2_ex2_triangle_color.dir/clean:
+	$(MAKE) -f TP_2/CMakeFiles/TP_2_ex2_triangle_color.dir/build.make TP_2/CMakeFiles/TP_2_ex2_triangle_color.dir/clean
+.PHONY : TP_2/CMakeFiles/TP_2_ex2_triangle_color.dir/clean
+
+# clean rule for target.
+clean: TP_2/CMakeFiles/TP_2_ex2_triangle_color.dir/clean
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target TP_2/CMakeFiles/TP_2_ex3_triangle.dir
+
+# All Build rule for target.
+TP_2/CMakeFiles/TP_2_ex3_triangle.dir/all: glimac/CMakeFiles/glimac.dir/all
+	$(MAKE) -f TP_2/CMakeFiles/TP_2_ex3_triangle.dir/build.make TP_2/CMakeFiles/TP_2_ex3_triangle.dir/depend
+	$(MAKE) -f TP_2/CMakeFiles/TP_2_ex3_triangle.dir/build.make TP_2/CMakeFiles/TP_2_ex3_triangle.dir/build
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles  13
+	@echo "Built target TP_2_ex3_triangle"
+.PHONY : TP_2/CMakeFiles/TP_2_ex3_triangle.dir/all
+
+# Include target in all.
+all: TP_2/CMakeFiles/TP_2_ex3_triangle.dir/all
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+TP_2/CMakeFiles/TP_2_ex3_triangle.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles 9
+	$(MAKE) -f CMakeFiles/Makefile2 TP_2/CMakeFiles/TP_2_ex3_triangle.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles 0
+.PHONY : TP_2/CMakeFiles/TP_2_ex3_triangle.dir/rule
+
+# Convenience name for target.
+TP_2_ex3_triangle: TP_2/CMakeFiles/TP_2_ex3_triangle.dir/rule
+.PHONY : TP_2_ex3_triangle
+
+# clean rule for target.
+TP_2/CMakeFiles/TP_2_ex3_triangle.dir/clean:
+	$(MAKE) -f TP_2/CMakeFiles/TP_2_ex3_triangle.dir/build.make TP_2/CMakeFiles/TP_2_ex3_triangle.dir/clean
+.PHONY : TP_2/CMakeFiles/TP_2_ex3_triangle.dir/clean
+
+# clean rule for target.
+clean: TP_2/CMakeFiles/TP_2_ex3_triangle.dir/clean
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target TP_2/CMakeFiles/TP_2_mandelbrot.dir
+
+# All Build rule for target.
+TP_2/CMakeFiles/TP_2_mandelbrot.dir/all: glimac/CMakeFiles/glimac.dir/all
+	$(MAKE) -f TP_2/CMakeFiles/TP_2_mandelbrot.dir/build.make TP_2/CMakeFiles/TP_2_mandelbrot.dir/depend
+	$(MAKE) -f TP_2/CMakeFiles/TP_2_mandelbrot.dir/build.make TP_2/CMakeFiles/TP_2_mandelbrot.dir/build
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles  14
+	@echo "Built target TP_2_mandelbrot"
+.PHONY : TP_2/CMakeFiles/TP_2_mandelbrot.dir/all
+
+# Include target in all.
+all: TP_2/CMakeFiles/TP_2_mandelbrot.dir/all
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+TP_2/CMakeFiles/TP_2_mandelbrot.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles 9
+	$(MAKE) -f CMakeFiles/Makefile2 TP_2/CMakeFiles/TP_2_mandelbrot.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles 0
+.PHONY : TP_2/CMakeFiles/TP_2_mandelbrot.dir/rule
+
+# Convenience name for target.
+TP_2_mandelbrot: TP_2/CMakeFiles/TP_2_mandelbrot.dir/rule
+.PHONY : TP_2_mandelbrot
+
+# clean rule for target.
+TP_2/CMakeFiles/TP_2_mandelbrot.dir/clean:
+	$(MAKE) -f TP_2/CMakeFiles/TP_2_mandelbrot.dir/build.make TP_2/CMakeFiles/TP_2_mandelbrot.dir/clean
+.PHONY : TP_2/CMakeFiles/TP_2_mandelbrot.dir/clean
+
+# clean rule for target.
+clean: TP_2/CMakeFiles/TP_2_mandelbrot.dir/clean
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target TP_2/CMakeFiles/TP_2_triangle_color.dir
+
+# All Build rule for target.
+TP_2/CMakeFiles/TP_2_triangle_color.dir/all: glimac/CMakeFiles/glimac.dir/all
+	$(MAKE) -f TP_2/CMakeFiles/TP_2_triangle_color.dir/build.make TP_2/CMakeFiles/TP_2_triangle_color.dir/depend
+	$(MAKE) -f TP_2/CMakeFiles/TP_2_triangle_color.dir/build.make TP_2/CMakeFiles/TP_2_triangle_color.dir/build
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles  21
+	@echo "Built target TP_2_triangle_color"
+.PHONY : TP_2/CMakeFiles/TP_2_triangle_color.dir/all
+
+# Include target in all.
+all: TP_2/CMakeFiles/TP_2_triangle_color.dir/all
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+TP_2/CMakeFiles/TP_2_triangle_color.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles 9
+	$(MAKE) -f CMakeFiles/Makefile2 TP_2/CMakeFiles/TP_2_triangle_color.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles 0
+.PHONY : TP_2/CMakeFiles/TP_2_triangle_color.dir/rule
+
+# Convenience name for target.
+TP_2_triangle_color: TP_2/CMakeFiles/TP_2_triangle_color.dir/rule
+.PHONY : TP_2_triangle_color
+
+# clean rule for target.
+TP_2/CMakeFiles/TP_2_triangle_color.dir/clean:
+	$(MAKE) -f TP_2/CMakeFiles/TP_2_triangle_color.dir/build.make TP_2/CMakeFiles/TP_2_triangle_color.dir/clean
+.PHONY : TP_2/CMakeFiles/TP_2_triangle_color.dir/clean
+
+# clean rule for target.
+clean: TP_2/CMakeFiles/TP_2_triangle_color.dir/clean
+.PHONY : clean
+
+#=============================================================================
 # Directory level rules for directory TPgarbage
 
 # Convenience name for "all" pass in the directory.
@@ -448,7 +918,7 @@ TPgarbage/preinstall:
 TPgarbage/CMakeFiles/TPgarbage_SDLtemplate.dir/all: glimac/CMakeFiles/glimac.dir/all
 	$(MAKE) -f TPgarbage/CMakeFiles/TPgarbage_SDLtemplate.dir/build.make TPgarbage/CMakeFiles/TPgarbage_SDLtemplate.dir/depend
 	$(MAKE) -f TPgarbage/CMakeFiles/TPgarbage_SDLtemplate.dir/build.make TPgarbage/CMakeFiles/TPgarbage_SDLtemplate.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles  9
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles  23
 	@echo "Built target TPgarbage_SDLtemplate"
 .PHONY : TPgarbage/CMakeFiles/TPgarbage_SDLtemplate.dir/all
 
@@ -483,7 +953,7 @@ clean: TPgarbage/CMakeFiles/TPgarbage_SDLtemplate.dir/clean
 TPgarbage/CMakeFiles/TPgarbage_foo.dir/all: glimac/CMakeFiles/glimac.dir/all
 	$(MAKE) -f TPgarbage/CMakeFiles/TPgarbage_foo.dir/build.make TPgarbage/CMakeFiles/TPgarbage_foo.dir/depend
 	$(MAKE) -f TPgarbage/CMakeFiles/TPgarbage_foo.dir/build.make TPgarbage/CMakeFiles/TPgarbage_foo.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles  10
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles  24
 	@echo "Built target TPgarbage_foo"
 .PHONY : TPgarbage/CMakeFiles/TPgarbage_foo.dir/all
 
@@ -509,6 +979,93 @@ TPgarbage/CMakeFiles/TPgarbage_foo.dir/clean:
 
 # clean rule for target.
 clean: TPgarbage/CMakeFiles/TPgarbage_foo.dir/clean
+.PHONY : clean
+
+#=============================================================================
+# Directory level rules for directory TP2_Mandelbrot
+
+# Convenience name for "all" pass in the directory.
+TP2_Mandelbrot/all: TP2_Mandelbrot/CMakeFiles/TP2_Mandelbrot_SDLtemplate.dir/all
+TP2_Mandelbrot/all: TP2_Mandelbrot/CMakeFiles/TP2_Mandelbrot_mandelbrot.dir/all
+.PHONY : TP2_Mandelbrot/all
+
+# Convenience name for "clean" pass in the directory.
+TP2_Mandelbrot/clean: TP2_Mandelbrot/CMakeFiles/TP2_Mandelbrot_SDLtemplate.dir/clean
+TP2_Mandelbrot/clean: TP2_Mandelbrot/CMakeFiles/TP2_Mandelbrot_mandelbrot.dir/clean
+.PHONY : TP2_Mandelbrot/clean
+
+# Convenience name for "preinstall" pass in the directory.
+TP2_Mandelbrot/preinstall:
+.PHONY : TP2_Mandelbrot/preinstall
+
+#=============================================================================
+# Target rules for target TP2_Mandelbrot/CMakeFiles/TP2_Mandelbrot_SDLtemplate.dir
+
+# All Build rule for target.
+TP2_Mandelbrot/CMakeFiles/TP2_Mandelbrot_SDLtemplate.dir/all: glimac/CMakeFiles/glimac.dir/all
+	$(MAKE) -f TP2_Mandelbrot/CMakeFiles/TP2_Mandelbrot_SDLtemplate.dir/build.make TP2_Mandelbrot/CMakeFiles/TP2_Mandelbrot_SDLtemplate.dir/depend
+	$(MAKE) -f TP2_Mandelbrot/CMakeFiles/TP2_Mandelbrot_SDLtemplate.dir/build.make TP2_Mandelbrot/CMakeFiles/TP2_Mandelbrot_SDLtemplate.dir/build
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles  1
+	@echo "Built target TP2_Mandelbrot_SDLtemplate"
+.PHONY : TP2_Mandelbrot/CMakeFiles/TP2_Mandelbrot_SDLtemplate.dir/all
+
+# Include target in all.
+all: TP2_Mandelbrot/CMakeFiles/TP2_Mandelbrot_SDLtemplate.dir/all
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+TP2_Mandelbrot/CMakeFiles/TP2_Mandelbrot_SDLtemplate.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles 9
+	$(MAKE) -f CMakeFiles/Makefile2 TP2_Mandelbrot/CMakeFiles/TP2_Mandelbrot_SDLtemplate.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles 0
+.PHONY : TP2_Mandelbrot/CMakeFiles/TP2_Mandelbrot_SDLtemplate.dir/rule
+
+# Convenience name for target.
+TP2_Mandelbrot_SDLtemplate: TP2_Mandelbrot/CMakeFiles/TP2_Mandelbrot_SDLtemplate.dir/rule
+.PHONY : TP2_Mandelbrot_SDLtemplate
+
+# clean rule for target.
+TP2_Mandelbrot/CMakeFiles/TP2_Mandelbrot_SDLtemplate.dir/clean:
+	$(MAKE) -f TP2_Mandelbrot/CMakeFiles/TP2_Mandelbrot_SDLtemplate.dir/build.make TP2_Mandelbrot/CMakeFiles/TP2_Mandelbrot_SDLtemplate.dir/clean
+.PHONY : TP2_Mandelbrot/CMakeFiles/TP2_Mandelbrot_SDLtemplate.dir/clean
+
+# clean rule for target.
+clean: TP2_Mandelbrot/CMakeFiles/TP2_Mandelbrot_SDLtemplate.dir/clean
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target TP2_Mandelbrot/CMakeFiles/TP2_Mandelbrot_mandelbrot.dir
+
+# All Build rule for target.
+TP2_Mandelbrot/CMakeFiles/TP2_Mandelbrot_mandelbrot.dir/all: glimac/CMakeFiles/glimac.dir/all
+	$(MAKE) -f TP2_Mandelbrot/CMakeFiles/TP2_Mandelbrot_mandelbrot.dir/build.make TP2_Mandelbrot/CMakeFiles/TP2_Mandelbrot_mandelbrot.dir/depend
+	$(MAKE) -f TP2_Mandelbrot/CMakeFiles/TP2_Mandelbrot_mandelbrot.dir/build.make TP2_Mandelbrot/CMakeFiles/TP2_Mandelbrot_mandelbrot.dir/build
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles  2
+	@echo "Built target TP2_Mandelbrot_mandelbrot"
+.PHONY : TP2_Mandelbrot/CMakeFiles/TP2_Mandelbrot_mandelbrot.dir/all
+
+# Include target in all.
+all: TP2_Mandelbrot/CMakeFiles/TP2_Mandelbrot_mandelbrot.dir/all
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+TP2_Mandelbrot/CMakeFiles/TP2_Mandelbrot_mandelbrot.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles 9
+	$(MAKE) -f CMakeFiles/Makefile2 TP2_Mandelbrot/CMakeFiles/TP2_Mandelbrot_mandelbrot.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles 0
+.PHONY : TP2_Mandelbrot/CMakeFiles/TP2_Mandelbrot_mandelbrot.dir/rule
+
+# Convenience name for target.
+TP2_Mandelbrot_mandelbrot: TP2_Mandelbrot/CMakeFiles/TP2_Mandelbrot_mandelbrot.dir/rule
+.PHONY : TP2_Mandelbrot_mandelbrot
+
+# clean rule for target.
+TP2_Mandelbrot/CMakeFiles/TP2_Mandelbrot_mandelbrot.dir/clean:
+	$(MAKE) -f TP2_Mandelbrot/CMakeFiles/TP2_Mandelbrot_mandelbrot.dir/build.make TP2_Mandelbrot/CMakeFiles/TP2_Mandelbrot_mandelbrot.dir/clean
+.PHONY : TP2_Mandelbrot/CMakeFiles/TP2_Mandelbrot_mandelbrot.dir/clean
+
+# clean rule for target.
+clean: TP2_Mandelbrot/CMakeFiles/TP2_Mandelbrot_mandelbrot.dir/clean
 .PHONY : clean
 
 #=============================================================================

@@ -203,6 +203,84 @@ TP_1_maison/fast:
 .PHONY : TP_1_maison/fast
 
 #=============================================================================
+# Target rules for targets named TP_2_suite_SDLtemplate
+
+# Build rule for target.
+TP_2_suite_SDLtemplate: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 TP_2_suite_SDLtemplate
+.PHONY : TP_2_suite_SDLtemplate
+
+# fast build rule for target.
+TP_2_suite_SDLtemplate/fast:
+	$(MAKE) -f TP_2_suite/CMakeFiles/TP_2_suite_SDLtemplate.dir/build.make TP_2_suite/CMakeFiles/TP_2_suite_SDLtemplate.dir/build
+.PHONY : TP_2_suite_SDLtemplate/fast
+
+#=============================================================================
+# Target rules for targets named TP_2_suite_variable_uniforme_1
+
+# Build rule for target.
+TP_2_suite_variable_uniforme_1: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 TP_2_suite_variable_uniforme_1
+.PHONY : TP_2_suite_variable_uniforme_1
+
+# fast build rule for target.
+TP_2_suite_variable_uniforme_1/fast:
+	$(MAKE) -f TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_1.dir/build.make TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_1.dir/build
+.PHONY : TP_2_suite_variable_uniforme_1/fast
+
+#=============================================================================
+# Target rules for targets named TP_2_suite_variable_uniforme_2
+
+# Build rule for target.
+TP_2_suite_variable_uniforme_2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 TP_2_suite_variable_uniforme_2
+.PHONY : TP_2_suite_variable_uniforme_2
+
+# fast build rule for target.
+TP_2_suite_variable_uniforme_2/fast:
+	$(MAKE) -f TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_2.dir/build.make TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_2.dir/build
+.PHONY : TP_2_suite_variable_uniforme_2/fast
+
+#=============================================================================
+# Target rules for targets named TP_2_suite_variable_uniforme_3
+
+# Build rule for target.
+TP_2_suite_variable_uniforme_3: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 TP_2_suite_variable_uniforme_3
+.PHONY : TP_2_suite_variable_uniforme_3
+
+# fast build rule for target.
+TP_2_suite_variable_uniforme_3/fast:
+	$(MAKE) -f TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_3.dir/build.make TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_3.dir/build
+.PHONY : TP_2_suite_variable_uniforme_3/fast
+
+#=============================================================================
+# Target rules for targets named TP_2_suite_variable_uniforme_4
+
+# Build rule for target.
+TP_2_suite_variable_uniforme_4: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 TP_2_suite_variable_uniforme_4
+.PHONY : TP_2_suite_variable_uniforme_4
+
+# fast build rule for target.
+TP_2_suite_variable_uniforme_4/fast:
+	$(MAKE) -f TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_4.dir/build.make TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_4.dir/build
+.PHONY : TP_2_suite_variable_uniforme_4/fast
+
+#=============================================================================
+# Target rules for targets named TP_2_suite_variable_uniforme_5
+
+# Build rule for target.
+TP_2_suite_variable_uniforme_5: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 TP_2_suite_variable_uniforme_5
+.PHONY : TP_2_suite_variable_uniforme_5
+
+# fast build rule for target.
+TP_2_suite_variable_uniforme_5/fast:
+	$(MAKE) -f TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_5.dir/build.make TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_5.dir/build
+.PHONY : TP_2_suite_variable_uniforme_5/fast
+
+#=============================================================================
 # Target rules for targets named TP_template_SDLtemplate
 
 # Build rule for target.
@@ -214,6 +292,84 @@ TP_template_SDLtemplate: cmake_check_build_system
 TP_template_SDLtemplate/fast:
 	$(MAKE) -f TP_template/CMakeFiles/TP_template_SDLtemplate.dir/build.make TP_template/CMakeFiles/TP_template_SDLtemplate.dir/build
 .PHONY : TP_template_SDLtemplate/fast
+
+#=============================================================================
+# Target rules for targets named TP_2_SDLtemplate
+
+# Build rule for target.
+TP_2_SDLtemplate: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 TP_2_SDLtemplate
+.PHONY : TP_2_SDLtemplate
+
+# fast build rule for target.
+TP_2_SDLtemplate/fast:
+	$(MAKE) -f TP_2/CMakeFiles/TP_2_SDLtemplate.dir/build.make TP_2/CMakeFiles/TP_2_SDLtemplate.dir/build
+.PHONY : TP_2_SDLtemplate/fast
+
+#=============================================================================
+# Target rules for targets named TP_2_ex1_triangle_color
+
+# Build rule for target.
+TP_2_ex1_triangle_color: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 TP_2_ex1_triangle_color
+.PHONY : TP_2_ex1_triangle_color
+
+# fast build rule for target.
+TP_2_ex1_triangle_color/fast:
+	$(MAKE) -f TP_2/CMakeFiles/TP_2_ex1_triangle_color.dir/build.make TP_2/CMakeFiles/TP_2_ex1_triangle_color.dir/build
+.PHONY : TP_2_ex1_triangle_color/fast
+
+#=============================================================================
+# Target rules for targets named TP_2_ex2_triangle_color
+
+# Build rule for target.
+TP_2_ex2_triangle_color: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 TP_2_ex2_triangle_color
+.PHONY : TP_2_ex2_triangle_color
+
+# fast build rule for target.
+TP_2_ex2_triangle_color/fast:
+	$(MAKE) -f TP_2/CMakeFiles/TP_2_ex2_triangle_color.dir/build.make TP_2/CMakeFiles/TP_2_ex2_triangle_color.dir/build
+.PHONY : TP_2_ex2_triangle_color/fast
+
+#=============================================================================
+# Target rules for targets named TP_2_ex3_triangle
+
+# Build rule for target.
+TP_2_ex3_triangle: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 TP_2_ex3_triangle
+.PHONY : TP_2_ex3_triangle
+
+# fast build rule for target.
+TP_2_ex3_triangle/fast:
+	$(MAKE) -f TP_2/CMakeFiles/TP_2_ex3_triangle.dir/build.make TP_2/CMakeFiles/TP_2_ex3_triangle.dir/build
+.PHONY : TP_2_ex3_triangle/fast
+
+#=============================================================================
+# Target rules for targets named TP_2_mandelbrot
+
+# Build rule for target.
+TP_2_mandelbrot: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 TP_2_mandelbrot
+.PHONY : TP_2_mandelbrot
+
+# fast build rule for target.
+TP_2_mandelbrot/fast:
+	$(MAKE) -f TP_2/CMakeFiles/TP_2_mandelbrot.dir/build.make TP_2/CMakeFiles/TP_2_mandelbrot.dir/build
+.PHONY : TP_2_mandelbrot/fast
+
+#=============================================================================
+# Target rules for targets named TP_2_triangle_color
+
+# Build rule for target.
+TP_2_triangle_color: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 TP_2_triangle_color
+.PHONY : TP_2_triangle_color
+
+# fast build rule for target.
+TP_2_triangle_color/fast:
+	$(MAKE) -f TP_2/CMakeFiles/TP_2_triangle_color.dir/build.make TP_2/CMakeFiles/TP_2_triangle_color.dir/build
+.PHONY : TP_2_triangle_color/fast
 
 #=============================================================================
 # Target rules for targets named TPgarbage_SDLtemplate
@@ -241,6 +397,32 @@ TPgarbage_foo/fast:
 	$(MAKE) -f TPgarbage/CMakeFiles/TPgarbage_foo.dir/build.make TPgarbage/CMakeFiles/TPgarbage_foo.dir/build
 .PHONY : TPgarbage_foo/fast
 
+#=============================================================================
+# Target rules for targets named TP2_Mandelbrot_SDLtemplate
+
+# Build rule for target.
+TP2_Mandelbrot_SDLtemplate: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 TP2_Mandelbrot_SDLtemplate
+.PHONY : TP2_Mandelbrot_SDLtemplate
+
+# fast build rule for target.
+TP2_Mandelbrot_SDLtemplate/fast:
+	$(MAKE) -f TP2_Mandelbrot/CMakeFiles/TP2_Mandelbrot_SDLtemplate.dir/build.make TP2_Mandelbrot/CMakeFiles/TP2_Mandelbrot_SDLtemplate.dir/build
+.PHONY : TP2_Mandelbrot_SDLtemplate/fast
+
+#=============================================================================
+# Target rules for targets named TP2_Mandelbrot_mandelbrot
+
+# Build rule for target.
+TP2_Mandelbrot_mandelbrot: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 TP2_Mandelbrot_mandelbrot
+.PHONY : TP2_Mandelbrot_mandelbrot
+
+# fast build rule for target.
+TP2_Mandelbrot_mandelbrot/fast:
+	$(MAKE) -f TP2_Mandelbrot/CMakeFiles/TP2_Mandelbrot_mandelbrot.dir/build.make TP2_Mandelbrot/CMakeFiles/TP2_Mandelbrot_mandelbrot.dir/build
+.PHONY : TP2_Mandelbrot_mandelbrot/fast
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -257,9 +439,23 @@ help:
 	@echo "... TP_1_exo4_structure_vertex"
 	@echo "... TP_1_exo5_disque"
 	@echo "... TP_1_maison"
+	@echo "... TP_2_suite_SDLtemplate"
+	@echo "... TP_2_suite_variable_uniforme_1"
+	@echo "... TP_2_suite_variable_uniforme_2"
+	@echo "... TP_2_suite_variable_uniforme_3"
+	@echo "... TP_2_suite_variable_uniforme_4"
+	@echo "... TP_2_suite_variable_uniforme_5"
 	@echo "... TP_template_SDLtemplate"
+	@echo "... TP_2_SDLtemplate"
+	@echo "... TP_2_ex1_triangle_color"
+	@echo "... TP_2_ex2_triangle_color"
+	@echo "... TP_2_ex3_triangle"
+	@echo "... TP_2_mandelbrot"
+	@echo "... TP_2_triangle_color"
 	@echo "... TPgarbage_SDLtemplate"
 	@echo "... TPgarbage_foo"
+	@echo "... TP2_Mandelbrot_SDLtemplate"
+	@echo "... TP2_Mandelbrot_mandelbrot"
 .PHONY : help
 
 
