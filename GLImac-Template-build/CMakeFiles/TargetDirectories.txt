@@ -1,0 +1,11 @@
+/home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/TP_1/CMakeFiles/TP_1_SDLtemplate.dir
+/home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/TP_1/CMakeFiles/TP_1_exo1_triangle_blanc.dir
+/home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/TP_1/CMakeFiles/TP_1_exo2_triangle_color.dir
+/home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/TP_1/CMakeFiles/TP_1_exo3_structure_vertex.dir
+/home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/TP_1/CMakeFiles/TP_1_exo4_structure_vertex.dir
+/home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/TP_1/CMakeFiles/TP_1_exo5_disque.dir
+/home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/TP_1/CMakeFiles/TP_1_maison.dir
+/home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/TP_template/CMakeFiles/TP_template_SDLtemplate.dir
+/home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/TPgarbage/CMakeFiles/TPgarbage_SDLtemplate.dir
+/home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/TPgarbage/CMakeFiles/TPgarbage_foo.dir
+/home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/glimac/CMakeFiles/glimac.dir
