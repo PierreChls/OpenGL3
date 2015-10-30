@@ -71,12 +71,11 @@ int main(int argc, char** argv) {
 
     GLint id_uModelMatrix = glGetUniformLocation(program.getGLId(), "uModelMatrix");
     GLint id_uModelColor = glGetUniformLocation(program.getGLId(), "uModelColor");
+    GLint uTexture = glGetUniformLocation(program.getGLId(), "uTexture");
    
     /*********************************
      * HERE SHOULD COME THE INITIALIZATION CODE
      *********************************/
-
-
 
         // Création d'un seul VBO:
         GLuint vbo;
@@ -121,6 +120,26 @@ int main(int argc, char** argv) {
         glVertexAttribPointer(VERTEX_ATTR_COORD, 2, GL_FLOAT, GL_FALSE, sizeof(Vertex2DUV),  (const GLvoid*)offsetof(Vertex2DUV, coord_texture));
          
         glBindBuffer(GL_ARRAY_BUFFER, 0);
+
+        //TEXTURES
+
+        std::unique_ptr<Image> texture_triforce = loadImage("/home/6im2/pcharles/Documents/OpenGL/GLImac-Template/TP_2_suite/assets/textures/triforce.png");
+        if(texture_triforce == NULL){
+            std::cerr << "La texture triforce n'a pas pu etre chargée. \n" << std::endl;
+            exit(0);
+        }
+
+        GLuint texture;
+
+        glGenTextures(1, &texture);
+        glBindTexture(GL_TEXTURE_2D, texture);
+        //glTexImage2D(GL_TEXTURE_2D, 0, GL_RGBA, texture_triforce->getWidth(), texture_triforce->getHeight(), 0, GL_RGBA, GL_FLOAT, &texture_triforce);
+        glTexImage2D(GL_TEXTURE_2D,0,GL_RGBA,texture_triforce->getWidth(),texture_triforce->getHeight(),0,GL_RGBA,GL_FLOAT,texture_triforce->getPixels());
+
+        glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MIN_FILTER, GL_LINEAR);
+        glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MAG_FILTER, GL_LINEAR);
+
+        glBindTexture(GL_TEXTURE_2D, 0);
      
      // Débind du VAO
      glBindVertexArray(0);
@@ -135,24 +154,6 @@ int main(int argc, char** argv) {
     vec3 blue(0,0,1);
     vec3 green(0,1,0);
     vec3 yellow(1,1,0);
-
-    //TEXTURES
-
-    std::unique_ptr<Image> texture_triforce = loadImage("/home/6im2/pcharles/Documents/OpenGL/GLImac-Template/TP_2_suite/assets/textures/triforce.png");
-    if(texture_triforce == NULL){
-        std::cerr << "La texture triforce n'a pas pu etre chargée. \n" << std::endl;
-        exit(0);
-    }
-
-    GLuint textures;
-    glGenTextures(1, &textures);
-    glBindTexture(GL_TEXTURE_2D, textures);
-    glTexImage2D(GL_TEXTURE_2D, 0, GL_RGBA, texture_triforce->getWidth(), texture_triforce->getHeight(), 0, GL_RGBA, GL_FLOAT, &texture_triforce);
-
-    glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MIN_FILTER, GL_LINEAR);
-    glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MAG_FILTER, GL_LINEAR);
-
-    glBindTexture(GL_TEXTURE_2D, 0);
 
 
     while(!done) {
@@ -170,7 +171,9 @@ int main(int argc, char** argv) {
 
          // Nettoyage de la fenêtre
          glClear(GL_COLOR_BUFFER_BIT);
-         
+         glUniform1i(uTexture, 0);
+         glTexImage2D(GL_TEXTURE_2D,0,GL_RGBA,texture_triforce->getWidth(),texture_triforce->getHeight(),0,GL_RGBA,GL_FLOAT,texture_triforce->getPixels());
+
          //Dessin du triangle
          glBindVertexArray(vao);
 
@@ -214,7 +217,7 @@ int main(int argc, char** argv) {
         windowManager.swapBuffers();
     }
 
-    glDeleteTextures(1, &textures);
+    glDeleteTextures(1, &texture);
 
     return EXIT_SUCCESS;
 }

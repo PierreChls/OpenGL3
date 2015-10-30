@@ -182,6 +182,34 @@ TP_2_suite_variable_uniforme_5/fast:
 	cd /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build && $(MAKE) -f TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_5.dir/build.make TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_5.dir/build
 .PHONY : TP_2_suite_variable_uniforme_5/fast
 
+# Convenience name for target.
+TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_6.dir/rule:
+	cd /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build && $(MAKE) -f CMakeFiles/Makefile2 TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_6.dir/rule
+.PHONY : TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_6.dir/rule
+
+# Convenience name for target.
+TP_2_suite_variable_uniforme_6: TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_6.dir/rule
+.PHONY : TP_2_suite_variable_uniforme_6
+
+# fast build rule for target.
+TP_2_suite_variable_uniforme_6/fast:
+	cd /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build && $(MAKE) -f TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_6.dir/build.make TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_6.dir/build
+.PHONY : TP_2_suite_variable_uniforme_6/fast
+
+# Convenience name for target.
+TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_maison.dir/rule:
+	cd /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build && $(MAKE) -f CMakeFiles/Makefile2 TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_maison.dir/rule
+.PHONY : TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_maison.dir/rule
+
+# Convenience name for target.
+TP_2_suite_variable_uniforme_maison: TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_maison.dir/rule
+.PHONY : TP_2_suite_variable_uniforme_maison
+
+# fast build rule for target.
+TP_2_suite_variable_uniforme_maison/fast:
+	cd /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build && $(MAKE) -f TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_maison.dir/build.make TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_maison.dir/build
+.PHONY : TP_2_suite_variable_uniforme_maison/fast
+
 SDLtemplate.o: SDLtemplate.cpp.o
 .PHONY : SDLtemplate.o
 
@@ -326,6 +354,54 @@ variable_uniforme_5.cpp.s:
 	cd /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build && $(MAKE) -f TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_5.dir/build.make TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_5.dir/variable_uniforme_5.cpp.s
 .PHONY : variable_uniforme_5.cpp.s
 
+variable_uniforme_6.o: variable_uniforme_6.cpp.o
+.PHONY : variable_uniforme_6.o
+
+# target to build an object file
+variable_uniforme_6.cpp.o:
+	cd /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build && $(MAKE) -f TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_6.dir/build.make TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_6.dir/variable_uniforme_6.cpp.o
+.PHONY : variable_uniforme_6.cpp.o
+
+variable_uniforme_6.i: variable_uniforme_6.cpp.i
+.PHONY : variable_uniforme_6.i
+
+# target to preprocess a source file
+variable_uniforme_6.cpp.i:
+	cd /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build && $(MAKE) -f TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_6.dir/build.make TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_6.dir/variable_uniforme_6.cpp.i
+.PHONY : variable_uniforme_6.cpp.i
+
+variable_uniforme_6.s: variable_uniforme_6.cpp.s
+.PHONY : variable_uniforme_6.s
+
+# target to generate assembly for a file
+variable_uniforme_6.cpp.s:
+	cd /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build && $(MAKE) -f TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_6.dir/build.make TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_6.dir/variable_uniforme_6.cpp.s
+.PHONY : variable_uniforme_6.cpp.s
+
+variable_uniforme_maison.o: variable_uniforme_maison.cpp.o
+.PHONY : variable_uniforme_maison.o
+
+# target to build an object file
+variable_uniforme_maison.cpp.o:
+	cd /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build && $(MAKE) -f TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_maison.dir/build.make TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_maison.dir/variable_uniforme_maison.cpp.o
+.PHONY : variable_uniforme_maison.cpp.o
+
+variable_uniforme_maison.i: variable_uniforme_maison.cpp.i
+.PHONY : variable_uniforme_maison.i
+
+# target to preprocess a source file
+variable_uniforme_maison.cpp.i:
+	cd /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build && $(MAKE) -f TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_maison.dir/build.make TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_maison.dir/variable_uniforme_maison.cpp.i
+.PHONY : variable_uniforme_maison.cpp.i
+
+variable_uniforme_maison.s: variable_uniforme_maison.cpp.s
+.PHONY : variable_uniforme_maison.s
+
+# target to generate assembly for a file
+variable_uniforme_maison.cpp.s:
+	cd /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build && $(MAKE) -f TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_maison.dir/build.make TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_maison.dir/variable_uniforme_maison.cpp.s
+.PHONY : variable_uniforme_maison.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -338,6 +414,8 @@ help:
 	@echo "... TP_2_suite_variable_uniforme_3"
 	@echo "... TP_2_suite_variable_uniforme_4"
 	@echo "... TP_2_suite_variable_uniforme_5"
+	@echo "... TP_2_suite_variable_uniforme_6"
+	@echo "... TP_2_suite_variable_uniforme_maison"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... SDLtemplate.o"
@@ -358,6 +436,12 @@ help:
 	@echo "... variable_uniforme_5.o"
 	@echo "... variable_uniforme_5.i"
 	@echo "... variable_uniforme_5.s"
+	@echo "... variable_uniforme_6.o"
+	@echo "... variable_uniforme_6.i"
+	@echo "... variable_uniforme_6.s"
+	@echo "... variable_uniforme_maison.o"
+	@echo "... variable_uniforme_maison.i"
+	@echo "... variable_uniforme_maison.s"
 .PHONY : help
 
 

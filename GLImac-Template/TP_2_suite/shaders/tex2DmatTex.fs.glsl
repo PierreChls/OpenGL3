@@ -4,12 +4,14 @@ in vec3 vFragColor;
 in vec2 vVertexCoord;
 
 uniform vec3 uModelColor;
+uniform sampler2D uTexture;
 
 out vec3 fFragColor;
 
-sampler2D uTexture;
-
 void main() {
-  fFragColor = uModelColor;
-  texture(uTexture, vVertexCoord);
+  //fFragColor = uModelColor;
+  vec4 idtexture = texture(uTexture, vVertexCoord);
+   fFragColor = idtexture.rgb;
+
+  //fFragTexture = texture(uTexture, vVertexCoord);
 };

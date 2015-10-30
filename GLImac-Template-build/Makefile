@@ -281,6 +281,32 @@ TP_2_suite_variable_uniforme_5/fast:
 .PHONY : TP_2_suite_variable_uniforme_5/fast
 
 #=============================================================================
+# Target rules for targets named TP_2_suite_variable_uniforme_6
+
+# Build rule for target.
+TP_2_suite_variable_uniforme_6: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 TP_2_suite_variable_uniforme_6
+.PHONY : TP_2_suite_variable_uniforme_6
+
+# fast build rule for target.
+TP_2_suite_variable_uniforme_6/fast:
+	$(MAKE) -f TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_6.dir/build.make TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_6.dir/build
+.PHONY : TP_2_suite_variable_uniforme_6/fast
+
+#=============================================================================
+# Target rules for targets named TP_2_suite_variable_uniforme_maison
+
+# Build rule for target.
+TP_2_suite_variable_uniforme_maison: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 TP_2_suite_variable_uniforme_maison
+.PHONY : TP_2_suite_variable_uniforme_maison
+
+# fast build rule for target.
+TP_2_suite_variable_uniforme_maison/fast:
+	$(MAKE) -f TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_maison.dir/build.make TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_maison.dir/build
+.PHONY : TP_2_suite_variable_uniforme_maison/fast
+
+#=============================================================================
 # Target rules for targets named TP_template_SDLtemplate
 
 # Build rule for target.
@@ -445,6 +471,8 @@ help:
 	@echo "... TP_2_suite_variable_uniforme_3"
 	@echo "... TP_2_suite_variable_uniforme_4"
 	@echo "... TP_2_suite_variable_uniforme_5"
+	@echo "... TP_2_suite_variable_uniforme_6"
+	@echo "... TP_2_suite_variable_uniforme_maison"
 	@echo "... TP_template_SDLtemplate"
 	@echo "... TP_2_SDLtemplate"
 	@echo "... TP_2_ex1_triangle_color"

@@ -18,6 +18,8 @@
 /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_3.dir
 /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_4.dir
 /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_5.dir
+/home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_6.dir
+/home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_maison.dir
 /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/TP_2/CMakeFiles/TP_2_triangle_color.dir
 /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/TP_template/CMakeFiles/TP_template_SDLtemplate.dir
 /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/TPgarbage/CMakeFiles/TPgarbage_SDLtemplate.dir
