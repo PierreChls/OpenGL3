@@ -1,17 +1,13 @@
-# Some examples OpenGL3 projects
+#OpenGL3 examples
 
-Some supervised works realised in image synthesis course
+Some supervised works realised in image synthesis course, in IMAC Engineering School, realised in October and November 2015
 
-##Supported OS (require OpenGL 3+)
+**Supported OS (require OpenGL 3+)**
 
 - Linux Ubuntu
 - Mac OSX (tested on El Capitan)
 
-
-Oui Bonsoir's iMineCraft
-An IMAC Engineering School OpenGL Project.
-
-Oui Bonsoir Triton Texture Map Pack
+-------------------------------------
 
 ##Prior installation
 
