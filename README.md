@@ -2,8 +2,6 @@
 
 Some supervised works realised in image synthesis course
 
------------------------
-
 ##Supported OS (require OpenGL 3+)
 
 - Linux Ubuntu
