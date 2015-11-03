@@ -15,7 +15,7 @@ Oui Bonsoir Triton Texture Map Pack
 
 ##Prior installation
 
-###For Mac users, please install brew, a really cool package manager
+###For Mac users, install brew, a really cool package manager
 
     $ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
