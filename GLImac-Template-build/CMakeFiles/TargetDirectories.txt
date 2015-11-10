@@ -21,6 +21,11 @@
 /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_6.dir
 /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/TP_2_suite/CMakeFiles/TP_2_suite_variable_uniforme_maison.dir
 /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/TP_2/CMakeFiles/TP_2_triangle_color.dir
+/home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/TP_3/CMakeFiles/TP_3_3D.dir
+/home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/TP_3/CMakeFiles/TP_3_SDLtemplate.dir
+/home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/TP_3/CMakeFiles/TP_3_lune.dir
+/home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/TP_3/CMakeFiles/TP_3_lune_multitexture.dir
+/home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/TP_3/CMakeFiles/TP_3_lune_texture.dir
 /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/TP_template/CMakeFiles/TP_template_SDLtemplate.dir
 /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/TPgarbage/CMakeFiles/TPgarbage_SDLtemplate.dir
 /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/TPgarbage/CMakeFiles/TPgarbage_foo.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/TP_3_lune_multitexture.dir/lune_multitexture.cpp.o  -o TP_3_lune_multitexture -rdynamic ../glimac/libglimac.a -Wl,-Bstatic -lSDLmain -Wl,-Bdynamic -lSDL -lpthread /usr/lib/x86_64-linux-gnu/libGL.so.1 -lGLEW 
