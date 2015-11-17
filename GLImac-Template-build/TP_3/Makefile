@@ -131,6 +131,34 @@ TP_3_SDLtemplate/fast:
 .PHONY : TP_3_SDLtemplate/fast
 
 # Convenience name for target.
+TP_3/CMakeFiles/TP_3_camTrackBall.dir/rule:
+	cd /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build && $(MAKE) -f CMakeFiles/Makefile2 TP_3/CMakeFiles/TP_3_camTrackBall.dir/rule
+.PHONY : TP_3/CMakeFiles/TP_3_camTrackBall.dir/rule
+
+# Convenience name for target.
+TP_3_camTrackBall: TP_3/CMakeFiles/TP_3_camTrackBall.dir/rule
+.PHONY : TP_3_camTrackBall
+
+# fast build rule for target.
+TP_3_camTrackBall/fast:
+	cd /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build && $(MAKE) -f TP_3/CMakeFiles/TP_3_camTrackBall.dir/build.make TP_3/CMakeFiles/TP_3_camTrackBall.dir/build
+.PHONY : TP_3_camTrackBall/fast
+
+# Convenience name for target.
+TP_3/CMakeFiles/TP_3_camTrackBallLight.dir/rule:
+	cd /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build && $(MAKE) -f CMakeFiles/Makefile2 TP_3/CMakeFiles/TP_3_camTrackBallLight.dir/rule
+.PHONY : TP_3/CMakeFiles/TP_3_camTrackBallLight.dir/rule
+
+# Convenience name for target.
+TP_3_camTrackBallLight: TP_3/CMakeFiles/TP_3_camTrackBallLight.dir/rule
+.PHONY : TP_3_camTrackBallLight
+
+# fast build rule for target.
+TP_3_camTrackBallLight/fast:
+	cd /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build && $(MAKE) -f TP_3/CMakeFiles/TP_3_camTrackBallLight.dir/build.make TP_3/CMakeFiles/TP_3_camTrackBallLight.dir/build
+.PHONY : TP_3_camTrackBallLight/fast
+
+# Convenience name for target.
 TP_3/CMakeFiles/TP_3_lune.dir/rule:
 	cd /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build && $(MAKE) -f CMakeFiles/Makefile2 TP_3/CMakeFiles/TP_3_lune.dir/rule
 .PHONY : TP_3/CMakeFiles/TP_3_lune.dir/rule
@@ -220,6 +248,54 @@ SDLtemplate.cpp.s:
 	cd /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build && $(MAKE) -f TP_3/CMakeFiles/TP_3_SDLtemplate.dir/build.make TP_3/CMakeFiles/TP_3_SDLtemplate.dir/SDLtemplate.cpp.s
 .PHONY : SDLtemplate.cpp.s
 
+camTrackBall.o: camTrackBall.cpp.o
+.PHONY : camTrackBall.o
+
+# target to build an object file
+camTrackBall.cpp.o:
+	cd /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build && $(MAKE) -f TP_3/CMakeFiles/TP_3_camTrackBall.dir/build.make TP_3/CMakeFiles/TP_3_camTrackBall.dir/camTrackBall.cpp.o
+.PHONY : camTrackBall.cpp.o
+
+camTrackBall.i: camTrackBall.cpp.i
+.PHONY : camTrackBall.i
+
+# target to preprocess a source file
+camTrackBall.cpp.i:
+	cd /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build && $(MAKE) -f TP_3/CMakeFiles/TP_3_camTrackBall.dir/build.make TP_3/CMakeFiles/TP_3_camTrackBall.dir/camTrackBall.cpp.i
+.PHONY : camTrackBall.cpp.i
+
+camTrackBall.s: camTrackBall.cpp.s
+.PHONY : camTrackBall.s
+
+# target to generate assembly for a file
+camTrackBall.cpp.s:
+	cd /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build && $(MAKE) -f TP_3/CMakeFiles/TP_3_camTrackBall.dir/build.make TP_3/CMakeFiles/TP_3_camTrackBall.dir/camTrackBall.cpp.s
+.PHONY : camTrackBall.cpp.s
+
+camTrackBallLight.o: camTrackBallLight.cpp.o
+.PHONY : camTrackBallLight.o
+
+# target to build an object file
+camTrackBallLight.cpp.o:
+	cd /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build && $(MAKE) -f TP_3/CMakeFiles/TP_3_camTrackBallLight.dir/build.make TP_3/CMakeFiles/TP_3_camTrackBallLight.dir/camTrackBallLight.cpp.o
+.PHONY : camTrackBallLight.cpp.o
+
+camTrackBallLight.i: camTrackBallLight.cpp.i
+.PHONY : camTrackBallLight.i
+
+# target to preprocess a source file
+camTrackBallLight.cpp.i:
+	cd /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build && $(MAKE) -f TP_3/CMakeFiles/TP_3_camTrackBallLight.dir/build.make TP_3/CMakeFiles/TP_3_camTrackBallLight.dir/camTrackBallLight.cpp.i
+.PHONY : camTrackBallLight.cpp.i
+
+camTrackBallLight.s: camTrackBallLight.cpp.s
+.PHONY : camTrackBallLight.s
+
+# target to generate assembly for a file
+camTrackBallLight.cpp.s:
+	cd /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build && $(MAKE) -f TP_3/CMakeFiles/TP_3_camTrackBallLight.dir/build.make TP_3/CMakeFiles/TP_3_camTrackBallLight.dir/camTrackBallLight.cpp.s
+.PHONY : camTrackBallLight.cpp.s
+
 lune.o: lune.cpp.o
 .PHONY : lune.o
 
@@ -300,6 +376,8 @@ help:
 	@echo "... depend"
 	@echo "... TP_3_3D"
 	@echo "... TP_3_SDLtemplate"
+	@echo "... TP_3_camTrackBall"
+	@echo "... TP_3_camTrackBallLight"
 	@echo "... TP_3_lune"
 	@echo "... TP_3_lune_multitexture"
 	@echo "... TP_3_lune_texture"
@@ -311,6 +389,12 @@ help:
 	@echo "... SDLtemplate.o"
 	@echo "... SDLtemplate.i"
 	@echo "... SDLtemplate.s"
+	@echo "... camTrackBall.o"
+	@echo "... camTrackBall.i"
+	@echo "... camTrackBall.s"
+	@echo "... camTrackBallLight.o"
+	@echo "... camTrackBallLight.i"
+	@echo "... camTrackBallLight.s"
 	@echo "... lune.o"
 	@echo "... lune.i"
 	@echo "... lune.s"

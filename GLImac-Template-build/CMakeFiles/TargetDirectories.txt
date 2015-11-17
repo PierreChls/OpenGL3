@@ -23,6 +23,8 @@
 /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/TP_2/CMakeFiles/TP_2_triangle_color.dir
 /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/TP_3/CMakeFiles/TP_3_3D.dir
 /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/TP_3/CMakeFiles/TP_3_SDLtemplate.dir
+/home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/TP_3/CMakeFiles/TP_3_camTrackBall.dir
+/home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/TP_3/CMakeFiles/TP_3_camTrackBallLight.dir
 /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/TP_3/CMakeFiles/TP_3_lune.dir
 /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/TP_3/CMakeFiles/TP_3_lune_multitexture.dir
 /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/TP_3/CMakeFiles/TP_3_lune_texture.dir

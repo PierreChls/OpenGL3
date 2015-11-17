@@ -11,6 +11,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/6im2/pcharles/Documents/OpenGL/GLImac-Template/glimac/src/SDLWindowManager.cpp" "/home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/glimac/CMakeFiles/glimac.dir/src/SDLWindowManager.cpp.o"
   "/home/6im2/pcharles/Documents/OpenGL/GLImac-Template/glimac/src/Shader.cpp" "/home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/glimac/CMakeFiles/glimac.dir/src/Shader.cpp.o"
   "/home/6im2/pcharles/Documents/OpenGL/GLImac-Template/glimac/src/Sphere.cpp" "/home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/glimac/CMakeFiles/glimac.dir/src/Sphere.cpp.o"
+  "/home/6im2/pcharles/Documents/OpenGL/GLImac-Template/glimac/src/TrackballCamera.cpp" "/home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/glimac/CMakeFiles/glimac.dir/src/TrackballCamera.cpp.o"
   "/home/6im2/pcharles/Documents/OpenGL/GLImac-Template/glimac/src/tiny_obj_loader.cpp" "/home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/glimac/CMakeFiles/glimac.dir/src/tiny_obj_loader.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

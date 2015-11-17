@@ -187,9 +187,32 @@ glimac/CMakeFiles/glimac.dir/src/Program.cpp.o.provides: glimac/CMakeFiles/glima
 
 glimac/CMakeFiles/glimac.dir/src/Program.cpp.o.provides.build: glimac/CMakeFiles/glimac.dir/src/Program.cpp.o
 
+glimac/CMakeFiles/glimac.dir/src/TrackballCamera.cpp.o: glimac/CMakeFiles/glimac.dir/flags.make
+glimac/CMakeFiles/glimac.dir/src/TrackballCamera.cpp.o: /home/6im2/pcharles/Documents/OpenGL/GLImac-Template/glimac/src/TrackballCamera.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles $(CMAKE_PROGRESS_7)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object glimac/CMakeFiles/glimac.dir/src/TrackballCamera.cpp.o"
+	cd /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/glimac && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/glimac.dir/src/TrackballCamera.cpp.o -c /home/6im2/pcharles/Documents/OpenGL/GLImac-Template/glimac/src/TrackballCamera.cpp
+
+glimac/CMakeFiles/glimac.dir/src/TrackballCamera.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/glimac.dir/src/TrackballCamera.cpp.i"
+	cd /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/glimac && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/6im2/pcharles/Documents/OpenGL/GLImac-Template/glimac/src/TrackballCamera.cpp > CMakeFiles/glimac.dir/src/TrackballCamera.cpp.i
+
+glimac/CMakeFiles/glimac.dir/src/TrackballCamera.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/glimac.dir/src/TrackballCamera.cpp.s"
+	cd /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/glimac && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/6im2/pcharles/Documents/OpenGL/GLImac-Template/glimac/src/TrackballCamera.cpp -o CMakeFiles/glimac.dir/src/TrackballCamera.cpp.s
+
+glimac/CMakeFiles/glimac.dir/src/TrackballCamera.cpp.o.requires:
+.PHONY : glimac/CMakeFiles/glimac.dir/src/TrackballCamera.cpp.o.requires
+
+glimac/CMakeFiles/glimac.dir/src/TrackballCamera.cpp.o.provides: glimac/CMakeFiles/glimac.dir/src/TrackballCamera.cpp.o.requires
+	$(MAKE) -f glimac/CMakeFiles/glimac.dir/build.make glimac/CMakeFiles/glimac.dir/src/TrackballCamera.cpp.o.provides.build
+.PHONY : glimac/CMakeFiles/glimac.dir/src/TrackballCamera.cpp.o.provides
+
+glimac/CMakeFiles/glimac.dir/src/TrackballCamera.cpp.o.provides.build: glimac/CMakeFiles/glimac.dir/src/TrackballCamera.cpp.o
+
 glimac/CMakeFiles/glimac.dir/src/Shader.cpp.o: glimac/CMakeFiles/glimac.dir/flags.make
 glimac/CMakeFiles/glimac.dir/src/Shader.cpp.o: /home/6im2/pcharles/Documents/OpenGL/GLImac-Template/glimac/src/Shader.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles $(CMAKE_PROGRESS_7)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles $(CMAKE_PROGRESS_8)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object glimac/CMakeFiles/glimac.dir/src/Shader.cpp.o"
 	cd /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/glimac && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/glimac.dir/src/Shader.cpp.o -c /home/6im2/pcharles/Documents/OpenGL/GLImac-Template/glimac/src/Shader.cpp
 
@@ -212,7 +235,7 @@ glimac/CMakeFiles/glimac.dir/src/Shader.cpp.o.provides.build: glimac/CMakeFiles/
 
 glimac/CMakeFiles/glimac.dir/src/tiny_obj_loader.cpp.o: glimac/CMakeFiles/glimac.dir/flags.make
 glimac/CMakeFiles/glimac.dir/src/tiny_obj_loader.cpp.o: /home/6im2/pcharles/Documents/OpenGL/GLImac-Template/glimac/src/tiny_obj_loader.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles $(CMAKE_PROGRESS_8)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/CMakeFiles $(CMAKE_PROGRESS_9)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object glimac/CMakeFiles/glimac.dir/src/tiny_obj_loader.cpp.o"
 	cd /home/6im2/pcharles/Documents/OpenGL/GLImac-Template-build/glimac && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/glimac.dir/src/tiny_obj_loader.cpp.o -c /home/6im2/pcharles/Documents/OpenGL/GLImac-Template/glimac/src/tiny_obj_loader.cpp
 
@@ -241,6 +264,7 @@ glimac_OBJECTS = \
 "CMakeFiles/glimac.dir/src/Cone.cpp.o" \
 "CMakeFiles/glimac.dir/src/SDLWindowManager.cpp.o" \
 "CMakeFiles/glimac.dir/src/Program.cpp.o" \
+"CMakeFiles/glimac.dir/src/TrackballCamera.cpp.o" \
 "CMakeFiles/glimac.dir/src/Shader.cpp.o" \
 "CMakeFiles/glimac.dir/src/tiny_obj_loader.cpp.o"
 
@@ -253,6 +277,7 @@ glimac/libglimac.a: glimac/CMakeFiles/glimac.dir/src/Image.cpp.o
 glimac/libglimac.a: glimac/CMakeFiles/glimac.dir/src/Cone.cpp.o
 glimac/libglimac.a: glimac/CMakeFiles/glimac.dir/src/SDLWindowManager.cpp.o
 glimac/libglimac.a: glimac/CMakeFiles/glimac.dir/src/Program.cpp.o
+glimac/libglimac.a: glimac/CMakeFiles/glimac.dir/src/TrackballCamera.cpp.o
 glimac/libglimac.a: glimac/CMakeFiles/glimac.dir/src/Shader.cpp.o
 glimac/libglimac.a: glimac/CMakeFiles/glimac.dir/src/tiny_obj_loader.cpp.o
 glimac/libglimac.a: glimac/CMakeFiles/glimac.dir/build.make
@@ -271,6 +296,7 @@ glimac/CMakeFiles/glimac.dir/requires: glimac/CMakeFiles/glimac.dir/src/Image.cp
 glimac/CMakeFiles/glimac.dir/requires: glimac/CMakeFiles/glimac.dir/src/Cone.cpp.o.requires
 glimac/CMakeFiles/glimac.dir/requires: glimac/CMakeFiles/glimac.dir/src/SDLWindowManager.cpp.o.requires
 glimac/CMakeFiles/glimac.dir/requires: glimac/CMakeFiles/glimac.dir/src/Program.cpp.o.requires
+glimac/CMakeFiles/glimac.dir/requires: glimac/CMakeFiles/glimac.dir/src/TrackballCamera.cpp.o.requires
 glimac/CMakeFiles/glimac.dir/requires: glimac/CMakeFiles/glimac.dir/src/Shader.cpp.o.requires
 glimac/CMakeFiles/glimac.dir/requires: glimac/CMakeFiles/glimac.dir/src/tiny_obj_loader.cpp.o.requires
 .PHONY : glimac/CMakeFiles/glimac.dir/requires

@@ -428,6 +428,32 @@ TP_3_SDLtemplate/fast:
 .PHONY : TP_3_SDLtemplate/fast
 
 #=============================================================================
+# Target rules for targets named TP_3_camTrackBall
+
+# Build rule for target.
+TP_3_camTrackBall: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 TP_3_camTrackBall
+.PHONY : TP_3_camTrackBall
+
+# fast build rule for target.
+TP_3_camTrackBall/fast:
+	$(MAKE) -f TP_3/CMakeFiles/TP_3_camTrackBall.dir/build.make TP_3/CMakeFiles/TP_3_camTrackBall.dir/build
+.PHONY : TP_3_camTrackBall/fast
+
+#=============================================================================
+# Target rules for targets named TP_3_camTrackBallLight
+
+# Build rule for target.
+TP_3_camTrackBallLight: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 TP_3_camTrackBallLight
+.PHONY : TP_3_camTrackBallLight
+
+# fast build rule for target.
+TP_3_camTrackBallLight/fast:
+	$(MAKE) -f TP_3/CMakeFiles/TP_3_camTrackBallLight.dir/build.make TP_3/CMakeFiles/TP_3_camTrackBallLight.dir/build
+.PHONY : TP_3_camTrackBallLight/fast
+
+#=============================================================================
 # Target rules for targets named TP_3_lune
 
 # Build rule for target.
@@ -551,6 +577,8 @@ help:
 	@echo "... TP_2_triangle_color"
 	@echo "... TP_3_3D"
 	@echo "... TP_3_SDLtemplate"
+	@echo "... TP_3_camTrackBall"
+	@echo "... TP_3_camTrackBallLight"
 	@echo "... TP_3_lune"
 	@echo "... TP_3_lune_multitexture"
 	@echo "... TP_3_lune_texture"

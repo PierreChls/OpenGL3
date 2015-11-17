@@ -92,6 +92,8 @@ set(CMAKE_DEPEND_INFO_FILES
   "TP_2/CMakeFiles/TP_2_triangle_color.dir/DependInfo.cmake"
   "TP_3/CMakeFiles/TP_3_3D.dir/DependInfo.cmake"
   "TP_3/CMakeFiles/TP_3_SDLtemplate.dir/DependInfo.cmake"
+  "TP_3/CMakeFiles/TP_3_camTrackBall.dir/DependInfo.cmake"
+  "TP_3/CMakeFiles/TP_3_camTrackBallLight.dir/DependInfo.cmake"
   "TP_3/CMakeFiles/TP_3_lune.dir/DependInfo.cmake"
   "TP_3/CMakeFiles/TP_3_lune_multitexture.dir/DependInfo.cmake"
   "TP_3/CMakeFiles/TP_3_lune_texture.dir/DependInfo.cmake"
