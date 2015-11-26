@@ -1,1 +1,0 @@
-/usr/bin/c++       CMakeFiles/TP_2_suite_variable_uniforme_5.dir/variable_uniforme_5.cpp.o  -o TP_2_suite_variable_uniforme_5 -rdynamic ../glimac/libglimac.a -Wl,-Bstatic -lSDLmain -Wl,-Bdynamic -lSDL -lpthread /usr/lib/x86_64-linux-gnu/libGL.so.1 -lGLEW 
